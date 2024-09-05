@@ -1,0 +1,1 @@
+﻿WEATHER_KEY = ""

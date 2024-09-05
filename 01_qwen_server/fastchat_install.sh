@@ -1,0 +1,1 @@
+pip3 -i https://pypi.tuna.tsinghua.edu.cn/simple install "fschat[model_worker,webui]"
